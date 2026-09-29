@@ -1,0 +1,6 @@
+{
+  "name": "Gully Cart",
+  "description": "Gully Cart - Modern e-commerce platform with live store agent chat, instant AI agent help center, 4K product catalog, Google Pay UPI QR checkout, and real-time admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
